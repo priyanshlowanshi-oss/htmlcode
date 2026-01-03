@@ -1,0 +1,16 @@
+
+.navbar{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.ghost{
+    font-size: 50px;
+}

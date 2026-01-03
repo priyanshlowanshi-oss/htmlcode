@@ -1,0 +1,35 @@
+
+.new{
+
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color:red;
+    text-decoration-style: solid;
+}
+
+
+.main{
+    font-style: italic;
+    word-spacing: 30px;
+    letter-spacing: 50px;
+    
+    text-shadow: 4px 5px 7px blue;
+}
+
+.pr{
+
+    line-height: 60px;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-family: cursive;
+}
+
+
+/*" text-decoration: underline/ overline/line-through";
+/"text-decoration-style: wavy/dotted/dash"/
+
+
+
+

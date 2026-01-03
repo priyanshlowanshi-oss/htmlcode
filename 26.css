@@ -1,0 +1,18 @@
+.btn:hover{
+    background-color: red;
+    color: white;
+    padding: 12px;
+}
+#main:hover{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pht{
+     border-radius: 50%;
+}
+.pht:hover{
+   
+    border: 2px solid black ;
+    padding: 2px;
+   
+}

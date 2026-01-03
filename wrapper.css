@@ -1,0 +1,34 @@
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.wrapper div{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.div1{
+    background-color: red;
+}
+
+.div2{
+    background-color: yellow;
+}
+
+.div3{
+    background-color: aliceblue;
+
+}
+
+
+
+
+
+
+
+/* screen ko control krna hai with the media quri break point */
+/* wrapper lka use */

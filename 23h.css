@@ -1,0 +1,22 @@
+
+.home{
+    border: solid 1px;
+    background-color: rgb(127, 255, 155);
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    align-items: center;
+
+}
+.home ui{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+.contener{
+    border: solid 1px;
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.img{
+    
+    border-radius: 50%;
+}
+#click:checked~.img{
+    border: 3px solid black;
+    padding: 3px;
+    
+
+}
