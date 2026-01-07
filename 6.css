@@ -1,0 +1,28 @@
+.parent{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(1,200px);
+    gap:20px;
+
+}
+
+.parent div{
+    background-color: blue;
+    border: 2px solid black;
+}
+
+@media screen  and (min-width:450px) and (max-width:750px) { 
+    .parent{
+        grid-template-columns: repeat(2,auto);
+        grid-template-rows: repeat(1,200px);
+    }
+    
+}
+
+@media screen and (max-width:450px) {
+    .parent{
+        grid-template-columns: repeat(1,auto);
+    }
+    
+}
